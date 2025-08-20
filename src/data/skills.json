@@ -1,0 +1,50 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "/assets/imgs/skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "/assets/imgs/skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "assets/imgs/skills/react.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "assets/imgs/skills/mongodb.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "assets/imgs/skills/figma.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "assets/imgs/skills/C++.png"
+  },
+  {
+    "title": "GIT",
+    "imageSrc": "assets/imgs/skills/Git.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "assets/imgs/skills/Java.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "assets/imgs/skills/Javascript.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "assets/imgs/skills/Python.png"
+  },
+  {
+    "title": "Solidity",
+    "imageSrc": "assets/imgs/skills/solidity.png"
+  },
+  {
+    "title": "Hardhat",
+    "imageSrc": "assets/imgs/skills/hardhat.png"
+  }
+]

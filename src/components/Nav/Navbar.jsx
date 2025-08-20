@@ -17,8 +17,9 @@ export const Navbar=()=>{
             <ul className={`${styles.items} ${menuOpen && styles.menuOpen}`}
             onClick={()=>setmenuOpen(false)}>
                 <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
                 <li><a href="#projects">Projects</a></li>
-                <li><a href="#contace">Contact Me</a></li>
+                <li><a href="#contactme">Contact Me</a></li>
             </ul>
         </div>
     </nav>;
