@@ -107,4 +107,7 @@
     .content{
         align-items: center;
     }
+    .title{
+        text-align: center;
+    }
 }
