@@ -5,8 +5,7 @@ export const Contact=()=>{
     return <footer className={styles.container} id="contactme">
         <div className={styles.text}>
             <h2>Contact</h2>
-            <p>Wanna play cards, discuss anime, jam or build something cool then feel free to reach out</p>
-            <span>PS: The card games won't involve betting...</span>
+            <p>Wanna discuss F1, anime, jam or build something cool then feel free to reach out</p>
         </div>
         <ul className={styles.links}>
             <li className={styles.link}>

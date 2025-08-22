@@ -39,9 +39,15 @@
     width: 120px;
     height: 120px;
     justify-content: center;
+    transition: 0.3s ease-in-out;
 }
 .skillimg img{
     width: 75px;
+}
+.skillimg:hover{
+    width: 150px;
+    height: 150px;
+    z-index: 0;
 }
 .skill p{
     font-size: 25px;

@@ -33,8 +33,8 @@ export const Hero=()=>{
                 I am {texts[index].substring(0, subIndex)}
                 <span className="cursor">|</span>
             </h2>
-            <p className={styles.description}>Reach out to learn more...</p>
-            <a href="mailto:arnavrajvanshi27@gmail.com" className={styles.contact}>Contact Me!!</a>
+            <p className={styles.description}>Reach out to learn more</p>
+            <a href="mailto:arnavrajvanshi27@gmail.com" className={styles.contact}>Contact Me</a>
         </div>
         <img src="/assets/imgs/me.jpg" alt="Me" className={styles.heroimg}/>
         <div className={styles.topBlur} />
